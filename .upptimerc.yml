@@ -5,6 +5,26 @@ repo: PbtServers-Estado # The name of this repository
 sites:
   - name: PbtServers (GLOBAL)
     url: https://pbtservers.com
+  - name: PbtServers (Minecraft)
+    check: "udp-ping"
+    url: mc.pbtservers.com
+    port: 25565
+  - name: PbtHosting (Panel)
+    url: https://pbth.pbtservers.com
+  - name: PbtCI
+    url: https://ci.pbtservers.com
+  - name: PbtWDev
+    url: https://wdev.pbtservers.com
+  - name: PbtWCrypt
+    url: https://wcrypt.pbtservers.com
+  - name: PbtCodigo (Paste)
+    url: https://codigo.pbtservers.com
+  - name: PbtModsURL
+    url: https://mods.pbtservers.com
+  - name: PbtFNF (Web)
+    url: https://fnf.pbtservers.com
+  #- name: PbtServers (GLOBAL)
+    #url: https://pbtservers.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
