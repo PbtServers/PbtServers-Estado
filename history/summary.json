@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pbtservers.com.ico",
     "slug": "pbt-servers-global",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2201,
-    "timeDay": 2489,
-    "timeWeek": 2399,
-    "timeMonth": 2201,
-    "timeYear": 2201,
-    "dailyMinutesDown": {
-      "2023-01-13": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2198,
+    "timeDay": 2524,
+    "timeWeek": 2400,
+    "timeMonth": 2198,
+    "timeYear": 2198,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PbtServers (Minecraft)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pbt-servers-minecraft",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 671,
-    "timeDay": 531,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 669,
+    "timeDay": 575,
     "timeWeek": 629,
-    "timeMonth": 671,
-    "timeYear": 671,
-    "dailyMinutesDown": {
-      "2023-01-13": 13
-    }
+    "timeMonth": 669,
+    "timeYear": 669,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PbtHosting (Panel)",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pbth.pbtservers.com.ico",
     "slug": "pbt-hosting-panel",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 776,
-    "timeDay": 648,
-    "timeWeek": 711,
-    "timeMonth": 776,
-    "timeYear": 776,
-    "dailyMinutesDown": {
-      "2023-01-13": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 772,
+    "timeDay": 655,
+    "timeWeek": 705,
+    "timeMonth": 772,
+    "timeYear": 772,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PbtCI",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ci.pbtservers.com.ico",
     "slug": "pbt-ci",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1200,
-    "timeDay": 734,
-    "timeWeek": 1408,
-    "timeMonth": 1200,
-    "timeYear": 1200,
-    "dailyMinutesDown": {
-      "2023-01-13": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1188,
+    "timeDay": 804,
+    "timeWeek": 1410,
+    "timeMonth": 1188,
+    "timeYear": 1188,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PbtWDev",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wdev.pbtservers.com.ico",
     "slug": "pbt-w-dev",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 560,
-    "timeDay": 462,
-    "timeWeek": 533,
-    "timeMonth": 560,
-    "timeYear": 560,
-    "dailyMinutesDown": {
-      "2023-01-13": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 602,
+    "timeDay": 1108,
+    "timeWeek": 685,
+    "timeMonth": 602,
+    "timeYear": 602,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PbtWCrypt",
@@ -105,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wcrypt.pbtservers.com.ico",
     "slug": "pbt-w-crypt",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 783,
-    "timeDay": 552,
-    "timeWeek": 667,
-    "timeMonth": 783,
-    "timeYear": 783,
-    "dailyMinutesDown": {
-      "2023-01-13": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 779,
+    "timeDay": 598,
+    "timeWeek": 665,
+    "timeMonth": 779,
+    "timeYear": 779,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PbtCodigo (Paste)",
@@ -125,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/codigo.pbtservers.com.ico",
     "slug": "pbt-codigo-paste",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 712,
-    "timeDay": 2409,
-    "timeWeek": 1169,
-    "timeMonth": 712,
-    "timeYear": 712,
-    "dailyMinutesDown": {
-      "2023-01-13": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 705,
+    "timeDay": 478,
+    "timeWeek": 1160,
+    "timeMonth": 705,
+    "timeYear": 705,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PbtModsURL",
@@ -145,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mods.pbtservers.com.ico",
     "slug": "pbt-mods-url",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 581,
-    "timeDay": 444,
-    "timeWeek": 524,
-    "timeMonth": 581,
-    "timeYear": 581,
-    "dailyMinutesDown": {
-      "2023-01-13": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 580,
+    "timeDay": 480,
+    "timeWeek": 533,
+    "timeMonth": 580,
+    "timeYear": 580,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PbtFNF (Web)",
@@ -165,18 +149,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fnf.pbtservers.com.ico",
     "slug": "pbt-fnf-web",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 585,
-    "timeDay": 456,
-    "timeWeek": 491,
-    "timeMonth": 585,
-    "timeYear": 585,
-    "dailyMinutesDown": {
-      "2023-01-13": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 583,
+    "timeDay": 480,
+    "timeWeek": 504,
+    "timeMonth": 583,
+    "timeYear": 583,
+    "dailyMinutesDown": {}
   }
 ]
