@@ -4,18 +4,19 @@
     "url": "https://pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/pbtservers.com.ico",
     "slug": "pbt-servers-global",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 2207,
-    "timeDay": 2041,
-    "timeWeek": 2273,
-    "timeMonth": 2207,
-    "timeYear": 2207,
+    "time": 2153,
+    "timeDay": 1131,
+    "timeWeek": 2102,
+    "timeMonth": 2153,
+    "timeYear": 2153,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 26
     }
   },
@@ -24,9 +25,9 @@
     "url": "mc.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pbt-servers-minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -36,6 +37,7 @@
     "timeMonth": 659,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 25
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://pbth.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/pbth.pbtservers.com.ico",
     "slug": "pbt-hosting-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -56,6 +58,7 @@
     "timeMonth": 766,
     "timeYear": 766,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 25
     }
   },
@@ -64,9 +67,9 @@
     "url": "https://ci.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/ci.pbtservers.com.ico",
     "slug": "pbt-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -76,6 +79,7 @@
     "timeMonth": 1193,
     "timeYear": 1193,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 24
     }
   },
@@ -84,9 +88,9 @@
     "url": "https://wdev.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/wdev.pbtservers.com.ico",
     "slug": "pbt-w-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -96,6 +100,7 @@
     "timeMonth": 739,
     "timeYear": 739,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 24
     }
   },
@@ -104,9 +109,9 @@
     "url": "https://wcrypt.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/wcrypt.pbtservers.com.ico",
     "slug": "pbt-w-crypt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -116,6 +121,7 @@
     "timeMonth": 760,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 23
     }
   },
@@ -124,18 +130,19 @@
     "url": "https://codigo.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/codigo.pbtservers.com.ico",
     "slug": "pbt-codigo-paste",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 677,
     "timeDay": 508,
     "timeWeek": 926,
     "timeMonth": 677,
     "timeYear": 677,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 23
     }
   },
@@ -144,9 +151,9 @@
     "url": "https://mods.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/mods.pbtservers.com.ico",
     "slug": "pbt-mods-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -156,6 +163,7 @@
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 22
     }
   },
@@ -164,9 +172,9 @@
     "url": "https://fnf.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/fnf.pbtservers.com.ico",
     "slug": "pbt-fnf-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -176,6 +184,7 @@
     "timeMonth": 572,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2023-01-14": 22
     }
   }
