@@ -1,7 +1,7 @@
 url: mc.pbtservers.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-07-03T06:45:08.137Z
+status: up
+code: 200
+responseTime: 1257
+lastUpdated: 2023-07-03T06:55:55.520Z
 startTime: Mon Dec 19 2022 04:22:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
