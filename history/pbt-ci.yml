@@ -1,7 +1,7 @@
 url: https://ci.pbtservers.com
-status: up
-code: 200
-responseTime: 1074
-lastUpdated: 2024-06-30T07:23:38.253Z
+status: down
+code: 502
+responseTime: 521
+lastUpdated: 2024-06-30T14:59:42.505Z
 startTime: 2022-12-19T04:22:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
