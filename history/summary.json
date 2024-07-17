@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.30%",
     "uptimeYear": "98.06%",
-    "time": 1068,
-    "timeDay": 539,
-    "timeWeek": 680,
-    "timeMonth": 1058,
-    "timeYear": 891,
+    "time": 1066,
+    "timeDay": 522,
+    "timeWeek": 665,
+    "timeMonth": 1053,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2024-07-03": 1227,
       "2024-07-02": 1440,
@@ -39,8 +39,7 @@
       "2023-08-17": 1015,
       "2023-08-16": 1440,
       "2023-08-15": 432,
-      "2023-08-10": 18,
-      "2023-07-18": 34
+      "2023-08-10": 18
     }
   },
   {
@@ -49,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.pbtservers.com.ico",
     "slug": "pbt-tickets",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 553,
-    "timeDay": 448,
-    "timeWeek": 538,
-    "timeMonth": 553,
-    "timeYear": 553,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 552,
+    "timeDay": 540,
+    "timeWeek": 547,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2024-07-03": 41
     }
@@ -75,9 +74,9 @@
     "uptimeMonth": "79.95%",
     "uptimeYear": "97.28%",
     "time": 827,
-    "timeDay": 493,
-    "timeWeek": 537,
-    "timeMonth": 634,
+    "timeDay": 479,
+    "timeWeek": 545,
+    "timeMonth": 630,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2024-07-06": 1044,
@@ -106,8 +105,7 @@
       "2023-08-17": 1014,
       "2023-08-16": 1440,
       "2023-08-15": 431,
-      "2023-08-10": 17,
-      "2023-07-18": 33
+      "2023-08-10": 17
     }
   },
   {
@@ -122,9 +120,9 @@
     "uptimeMonth": "86.49%",
     "uptimeYear": "97.83%",
     "time": 577,
-    "timeDay": 430,
-    "timeWeek": 561,
-    "timeMonth": 536,
+    "timeDay": 478,
+    "timeWeek": 540,
+    "timeMonth": 534,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2024-07-03": 1227,
@@ -148,8 +146,7 @@
       "2023-08-26": 16,
       "2023-08-17": 1031,
       "2023-08-16": 1440,
-      "2023-08-15": 429,
-      "2023-07-18": 31
+      "2023-08-15": 429
     }
   }
 ]
