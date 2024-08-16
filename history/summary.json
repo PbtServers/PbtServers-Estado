@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "98.06%",
-    "time": 992,
-    "timeDay": 0,
-    "timeWeek": 639,
-    "timeMonth": 643,
-    "timeYear": 847,
+    "uptimeYear": "98.14%",
+    "time": 989,
+    "timeDay": 673,
+    "timeWeek": 624,
+    "timeMonth": 648,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2024-07-29": 76,
       "2024-07-03": 1227,
@@ -36,8 +36,7 @@
       "2023-09-30": 152,
       "2023-09-21": 17,
       "2023-09-20": 16,
-      "2023-08-26": 18,
-      "2023-08-17": 1015
+      "2023-08-26": 18
     }
   },
   {
@@ -52,9 +51,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.81%",
     "time": 634,
-    "timeDay": 0,
-    "timeWeek": 618,
-    "timeMonth": 664,
+    "timeDay": 645,
+    "timeWeek": 606,
+    "timeMonth": 671,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-07-29": 76,
@@ -67,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pbth.pbtservers.com.ico",
     "slug": "pbt-hosting-panel",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "97.27%",
+    "uptimeYear": "97.36%",
     "time": 808,
-    "timeDay": 0,
-    "timeWeek": 560,
-    "timeMonth": 574,
+    "timeDay": 534,
+    "timeWeek": 539,
+    "timeMonth": 575,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2024-07-29": 75,
@@ -101,8 +100,7 @@
       "2023-09-30": 165,
       "2023-09-21": 17,
       "2023-09-01": 32,
-      "2023-08-26": 17,
-      "2023-08-17": 1014
+      "2023-08-26": 17
     }
   },
   {
@@ -115,11 +113,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.91%",
     "time": 581,
-    "timeDay": 0,
-    "timeWeek": 527,
-    "timeMonth": 555,
+    "timeDay": 512,
+    "timeWeek": 506,
+    "timeMonth": 558,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2024-07-29": 75,
@@ -141,8 +139,7 @@
       "2023-09-30": 149,
       "2023-09-21": 15,
       "2023-09-01": 23,
-      "2023-08-26": 16,
-      "2023-08-17": 1031
+      "2023-08-26": 16
     }
   }
 ]
