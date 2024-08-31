@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pbtservers.com.ico",
     "slug": "pbt-servers-global",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.60%",
-    "time": 951,
-    "timeDay": 567,
-    "timeWeek": 639,
-    "timeMonth": 629,
+    "time": 949,
+    "timeDay": 675,
+    "timeWeek": 624,
+    "timeMonth": 626,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2024-08-20": 22,
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
-    "time": 637,
-    "timeDay": 668,
-    "timeWeek": 633,
-    "timeMonth": 632,
-    "timeYear": 637,
+    "time": 638,
+    "timeDay": 698,
+    "timeWeek": 610,
+    "timeMonth": 626,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2024-08-20": 22,
       "2024-07-29": 76,
@@ -73,9 +73,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.82%",
     "time": 792,
-    "timeDay": 489,
-    "timeWeek": 595,
-    "timeMonth": 591,
+    "timeDay": 643,
+    "timeWeek": 578,
+    "timeMonth": 590,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2024-08-20": 22,
@@ -100,8 +100,7 @@
       "2023-10-11": 840,
       "2023-10-10": 24,
       "2023-09-30": 165,
-      "2023-09-21": 17,
-      "2023-09-01": 32
+      "2023-09-21": 17
     }
   },
   {
@@ -116,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.38%",
     "time": 580,
-    "timeDay": 508,
-    "timeWeek": 564,
-    "timeMonth": 577,
+    "timeDay": 453,
+    "timeWeek": 548,
+    "timeMonth": 571,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2024-07-29": 75,
@@ -138,8 +137,7 @@
       "2023-10-11": 838,
       "2023-10-10": 22,
       "2023-09-30": 149,
-      "2023-09-21": 15,
-      "2023-09-01": 23
+      "2023-09-21": 15
     }
   }
 ]
