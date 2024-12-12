@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.90%",
-    "time": 811,
-    "timeDay": 1367,
-    "timeWeek": 756,
-    "timeMonth": 633,
+    "time": 810,
+    "timeDay": 590,
+    "timeWeek": 710,
+    "timeMonth": 635,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2024-11-20": 82,
@@ -28,8 +28,7 @@
       "2024-06-08": 392,
       "2024-04-29": 69,
       "2024-04-13": 288,
-      "2024-01-08": 74,
-      "2023-12-13": 46
+      "2024-01-08": 74
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.89%",
-    "time": 787,
-    "timeDay": 4393,
-    "timeWeek": 1662,
+    "time": 785,
+    "timeDay": 558,
+    "timeWeek": 1672,
     "timeMonth": 1101,
-    "timeYear": 787,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2024-11-20": 82,
       "2024-09-23": 30,
@@ -68,10 +67,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.13%",
     "time": 705,
-    "timeDay": 452,
-    "timeWeek": 525,
-    "timeMonth": 589,
-    "timeYear": 647,
+    "timeDay": 536,
+    "timeWeek": 541,
+    "timeMonth": 588,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2024-11-20": 81,
       "2024-09-23": 30,
@@ -87,8 +86,7 @@
       "2024-06-08": 391,
       "2024-04-29": 68,
       "2024-04-13": 313,
-      "2024-01-08": 23,
-      "2023-12-13": 45
+      "2024-01-08": 23
     }
   },
   {
@@ -97,15 +95,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mods.pbtservers.com.ico",
     "slug": "pbt-mods-url",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.67%",
-    "time": 542,
-    "timeDay": 397,
-    "timeWeek": 476,
-    "timeMonth": 491,
+    "time": 543,
+    "timeDay": 530,
+    "timeWeek": 493,
+    "timeMonth": 488,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2024-11-20": 81,
@@ -119,8 +117,7 @@
       "2024-06-08": 386,
       "2024-04-29": 66,
       "2024-04-13": 313,
-      "2024-01-08": 63,
-      "2023-12-13": 43
+      "2024-01-08": 63
     }
   }
 ]
