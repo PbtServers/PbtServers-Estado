@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.43%",
     "time": 818,
-    "timeDay": 601,
-    "timeWeek": 789,
-    "timeMonth": 699,
-    "timeYear": 718,
+    "timeDay": 695,
+    "timeWeek": 593,
+    "timeMonth": 702,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2025-05-25": 15,
       "2025-04-28": 148,
@@ -22,8 +22,7 @@
       "2024-09-23": 31,
       "2024-08-20": 22,
       "2024-07-29": 76,
-      "2024-07-03": 1227,
-      "2024-07-02": 1440
+      "2024-07-03": 1227
     }
   },
   {
@@ -37,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 803,
-    "timeDay": 520,
-    "timeWeek": 582,
-    "timeMonth": 593,
-    "timeYear": 803,
+    "time": 802,
+    "timeDay": 569,
+    "timeWeek": 579,
+    "timeMonth": 595,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2025-04-28": 148,
       "2024-11-20": 82,
@@ -61,11 +60,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.65%",
     "time": 672,
-    "timeDay": 487,
-    "timeWeek": 505,
-    "timeMonth": 545,
+    "timeDay": 539,
+    "timeWeek": 503,
+    "timeMonth": 544,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2025-04-28": 147,
@@ -76,8 +75,7 @@
       "2024-07-06": 1044,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-03": 1440
     }
   },
   {
@@ -90,10 +88,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.17%",
-    "time": 555,
-    "timeDay": 503,
-    "timeWeek": 512,
+    "uptimeYear": "99.44%",
+    "time": 554,
+    "timeDay": 502,
+    "timeWeek": 514,
     "timeMonth": 525,
     "timeYear": 570,
     "dailyMinutesDown": {
@@ -101,8 +99,7 @@
       "2024-11-20": 81,
       "2024-09-23": 29,
       "2024-07-29": 75,
-      "2024-07-03": 1227,
-      "2024-07-02": 1440
+      "2024-07-03": 1227
     }
   }
 ]
