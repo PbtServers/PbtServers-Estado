@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pbtservers.com.ico",
     "slug": "pbt-servers-global",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
-    "time": 759,
-    "timeDay": 765,
-    "timeWeek": 638,
-    "timeMonth": 673,
-    "timeYear": 707,
+    "time": 760,
+    "timeDay": 631,
+    "timeWeek": 620,
+    "timeMonth": 670,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2025-10-12": 88,
       "2025-10-10": 24,
@@ -32,8 +32,7 @@
       "2025-07-03": 23,
       "2025-07-02": 40,
       "2025-05-25": 15,
-      "2025-04-28": 148,
-      "2024-11-20": 82
+      "2025-04-28": 148
     }
   },
   {
@@ -48,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 758,
-    "timeDay": 749,
-    "timeWeek": 572,
-    "timeMonth": 558,
+    "timeDay": 493,
+    "timeWeek": 560,
+    "timeMonth": 554,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2025-10-12": 88,
@@ -68,8 +67,7 @@
       "2025-07-30": 80,
       "2025-07-03": 23,
       "2025-07-02": 40,
-      "2025-04-28": 148,
-      "2024-11-20": 82
+      "2025-04-28": 148
     }
   },
   {
@@ -83,10 +81,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
-    "time": 663,
-    "timeDay": 596,
-    "timeWeek": 507,
-    "timeMonth": 532,
+    "time": 662,
+    "timeDay": 504,
+    "timeWeek": 499,
+    "timeMonth": 531,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2025-10-12": 88,
@@ -104,8 +102,7 @@
       "2025-07-30": 80,
       "2025-07-03": 24,
       "2025-07-02": 40,
-      "2025-04-28": 147,
-      "2024-11-20": 81
+      "2025-04-28": 147
     }
   },
   {
@@ -120,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 562,
-    "timeDay": 600,
-    "timeWeek": 497,
-    "timeMonth": 529,
+    "timeDay": 444,
+    "timeWeek": 486,
+    "timeMonth": 524,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2025-10-12": 88,
@@ -140,8 +137,7 @@
       "2025-07-30": 80,
       "2025-07-03": 24,
       "2025-07-02": 40,
-      "2025-04-28": 147,
-      "2024-11-20": 81
+      "2025-04-28": 147
     }
   }
 ]
