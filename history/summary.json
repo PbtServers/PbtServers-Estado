@@ -4,11 +4,11 @@
     "url": "https://pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/pbtservers.com.ico",
     "slug": "pbt-servers-global",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.26%",
     "time": 683,
     "timeDay": 539,
@@ -34,7 +34,8 @@
       "2026-01-14": 124,
       "2026-01-31": 160,
       "2026-01-30": 24,
-      "2026-05-24": 115
+      "2026-05-24": 115,
+      "2026-06-17": 4
     }
   },
   {
@@ -42,13 +43,13 @@
     "url": "https://tickets.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.pbtservers.com.ico",
     "slug": "pbt-tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.09%",
-    "time": 624,
+    "time": 625,
     "timeDay": 448,
     "timeWeek": 527,
     "timeMonth": 535,
@@ -72,7 +73,8 @@
       "2026-01-14": 124,
       "2026-01-31": 160,
       "2026-01-30": 23,
-      "2026-05-24": 114
+      "2026-05-24": 114,
+      "2026-06-17": 3
     }
   },
   {
@@ -80,13 +82,13 @@
     "url": "https://pbth.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/pbth.pbtservers.com.ico",
     "slug": "pbt-hosting-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.26%",
-    "time": 561,
+    "time": 614,
     "timeDay": 479,
     "timeWeek": 520,
     "timeMonth": 524,
@@ -110,7 +112,8 @@
       "2026-01-14": 124,
       "2026-01-31": 160,
       "2026-01-30": 23,
-      "2026-05-24": 113
+      "2026-05-24": 113,
+      "2026-06-17": 1
     }
   },
   {
@@ -118,13 +121,13 @@
     "url": "https://mods.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/mods.pbtservers.com.ico",
     "slug": "pbt-mods-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.26%",
-    "time": 532,
+    "time": 544,
     "timeDay": 404,
     "timeWeek": 496,
     "timeMonth": 492,
@@ -148,7 +151,8 @@
       "2026-01-14": 124,
       "2026-01-31": 160,
       "2026-01-30": 22,
-      "2026-05-24": 111
+      "2026-05-24": 111,
+      "2026-06-17": 0
     }
   }
 ]
