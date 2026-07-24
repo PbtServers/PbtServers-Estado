@@ -4,11 +4,11 @@
     "url": "https://pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/pbtservers.com.ico",
     "slug": "pbt-servers-global",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.10%",
     "time": 668,
     "timeDay": 494,
@@ -34,7 +34,8 @@
       "2026-01-30": 24,
       "2026-05-24": 115,
       "2026-06-18": 99,
-      "2026-06-17": 836
+      "2026-06-17": 836,
+      "2026-07-24": 4
     }
   },
   {
@@ -42,11 +43,11 @@
     "url": "https://tickets.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.pbtservers.com.ico",
     "slug": "pbt-tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.92%",
     "time": 600,
     "timeDay": 437,
@@ -72,7 +73,8 @@
       "2026-01-30": 23,
       "2026-05-24": 114,
       "2026-06-18": 99,
-      "2026-06-17": 835
+      "2026-06-17": 835,
+      "2026-07-24": 3
     }
   },
   {
@@ -80,10 +82,10 @@
     "url": "https://pbth.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/pbth.pbtservers.com.ico",
     "slug": "pbt-hosting-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
     "time": 555,
@@ -110,7 +112,8 @@
       "2026-01-30": 23,
       "2026-05-24": 113,
       "2026-06-18": 99,
-      "2026-06-17": 833
+      "2026-06-17": 833,
+      "2026-07-24": 1
     }
   },
   {
@@ -118,9 +121,9 @@
     "url": "https://mods.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/mods.pbtservers.com.ico",
     "slug": "pbt-mods-url",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
@@ -148,7 +151,8 @@
       "2026-01-30": 22,
       "2026-05-24": 111,
       "2026-06-18": 99,
-      "2026-06-17": 832
+      "2026-06-17": 832,
+      "2026-07-24": 0
     }
   }
 ]
