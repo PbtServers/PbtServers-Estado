@@ -4,15 +4,15 @@
     "url": "https://pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/pbtservers.com.ico",
     "slug": "pbt-servers-global",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.06%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.07%",
     "time": 668,
-    "timeDay": 698,
-    "timeWeek": 607,
+    "timeDay": 0,
+    "timeWeek": 623,
     "timeMonth": 626,
     "timeYear": 656,
     "dailyMinutesDown": {
@@ -34,7 +34,8 @@
       "2026-05-24": 115,
       "2026-06-18": 99,
       "2026-06-17": 836,
-      "2026-07-24": 215
+      "2026-07-24": 215,
+      "2026-07-31": 4
     }
   },
   {
@@ -42,15 +43,15 @@
     "url": "https://tickets.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.pbtservers.com.ico",
     "slug": "pbt-tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.88%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "98.88%",
-    "time": 584,
-    "timeDay": 614,
-    "timeWeek": 513,
+    "uptimeYear": "98.90%",
+    "time": 585,
+    "timeDay": 0,
+    "timeWeek": 524,
     "timeMonth": 536,
     "timeYear": 568,
     "dailyMinutesDown": {
@@ -72,7 +73,8 @@
       "2026-05-24": 114,
       "2026-06-18": 99,
       "2026-06-17": 835,
-      "2026-07-24": 214
+      "2026-07-24": 214,
+      "2026-07-31": 3
     }
   },
   {
@@ -80,15 +82,15 @@
     "url": "https://pbth.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/pbth.pbtservers.com.ico",
     "slug": "pbt-hosting-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.89%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "97.88%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 553,
-    "timeDay": 708,
-    "timeWeek": 523,
+    "timeDay": 0,
+    "timeWeek": 539,
     "timeMonth": 531,
     "timeYear": 548,
     "dailyMinutesDown": {
@@ -110,7 +112,8 @@
       "2026-05-24": 113,
       "2026-06-18": 99,
       "2026-06-17": 833,
-      "2026-07-24": 212
+      "2026-07-24": 212,
+      "2026-07-31": 1
     }
   },
   {
@@ -118,15 +121,15 @@
     "url": "https://mods.pbtservers.com",
     "icon": "https://icons.duckduckgo.com/ip3/mods.pbtservers.com.ico",
     "slug": "pbt-mods-url",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.90%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 519,
-    "timeDay": 534,
-    "timeWeek": 470,
+    "timeDay": 0,
+    "timeWeek": 481,
     "timeMonth": 490,
     "timeYear": 517,
     "dailyMinutesDown": {
@@ -148,7 +151,8 @@
       "2026-05-24": 111,
       "2026-06-18": 99,
       "2026-06-17": 832,
-      "2026-07-24": 211
+      "2026-07-24": 211,
+      "2026-07-31": 0
     }
   }
 ]
